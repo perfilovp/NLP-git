@@ -7,11 +7,12 @@
 
 Check it out 
     
-
+examples polars/pandas:
 ![Pandas commit log devs emotions dynamics](img/pandas.png)
-
-![Pandas polarity features](img/features_bugs_polarity_pandas.png)
 
 ![Polars commit log devs emotions](img/polars.png)
 
-![Polars polarity features](img/features_bugs_polarity_polars.png)
+
+![polarity_pandas](img/features_bugs_polarity_pandas.png)
+
+![polarity_pandas](img/features_bugs_polarity_polars.png)
