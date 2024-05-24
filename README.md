@@ -8,8 +8,10 @@
 Check it out 
     
 
-![alt text](https://github.com/pperfilov/NLP-git/blob/main/polars.png?raw=true)
+![Pandas commit log devs emotions dynamics](img/pandas.png)
 
+![Pandas polarity features](img/features_bugs_polarity_pandas.png)
 
-![alt text](https://github.com/pperfilov/NLP-git/blob/main/pandas.png?raw=true)
+![Polars commit log devs emotions][img/polars.png)
 
+![Polars polarity features](img/features_bugs_polarity_polars.png)
